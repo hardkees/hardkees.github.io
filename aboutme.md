@@ -10,6 +10,7 @@ I've mainly made this blog to keep track of what I've learned and share things t
 You've probably noticed how 'ugly' this webpage is (no offence to orbitalflower but I'm just expressing what is probably the majority opinion). Well, I plan on keeping it that way as I'm not a web developer. I would like to give thanks to [orbitalflower](https://orbitalflower.github.io/) on the fantastic (in my opinion) Jekyll theme. Also, sorry that I've gone and butchered it... 
 
 Links:
+
 [Linkedin](https://www.linkedin.com/in/kees-vos-a69499200/)
 
 [Twitter](https://twitter.com/HardKees)
