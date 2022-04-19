@@ -1,16 +1,10 @@
 ---
 layout: page
-title: Help
+title: About me
 ---
 
-This hyper-text document can be navigated by
-[clicking links](help.html) or using keyboard controls.
+I'm a cybersecurity enthusiast who currently works as a Security Engineer at CCL. I saw that a lot of cool hackers have personal blogs so I thought I would make my own one to try and fit in. 
 
-## Keyboard Controls
+I've mainly made this blog to keep track of what I've learned and share things that I find interesting, hopefully to keep me a little more focused and commited to things as well. If all goes well, this blog shouldn't be abandoned if you're reading this. If it is abandoned, well I'm probably busy with less important things I've gotten distracted by. 
 
-* _C_: Contents (all posts sorted by category)
-* _I_: Index (main page)
-* _H_: Help (this page)
-* _R_: Retrace (go back)
-* _P_: Browse &laquo; (chronologically previous page)
-* _N_: Browse &raquo; (chronologically next page)
+You've probably noticed how 'ugly' this webpage is as well, I plan on keeping it that way as I'm not a web developer. I would like to give thanks to [orbitalflower](https://orbitalflower.github.io/) on the fantastic Jekyll theme. Sorry that I've gone and butchered it... 
