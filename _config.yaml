@@ -1,8 +1,7 @@
-name: "AmigaGuide"
-description: "If you're seeing this, someone forgot to edit the site description."
-url: "https://orbitalflower.github.io/amigaguide-theme/"
+name: "hardkees"
+url: "https://hardkees.me/"
 
-baseurl: "https://orbitalflower.github.io/amigaguide-theme"
+baseurl: "https://hardkees.me"
 
 cats:
  - news
