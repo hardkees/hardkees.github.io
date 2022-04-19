@@ -11,7 +11,7 @@ You've probably noticed how 'ugly' this webpage is (no offence to orbitalflower 
 
 Links:
 
-[Linkedin](https://www.linkedin.com/in/kees-vos-a69499200/)
+[LinkedIn](https://www.linkedin.com/in/kees-vos-a69499200/)
 
 [Twitter](https://twitter.com/HardKees)
 
