@@ -6,6 +6,7 @@ baseurl: "https://hardkees.me"
 cats:
  - news
  - technology
+ - Vulns and exploits
 
 relative_permalinks: false
 permalink: ":year:month:day-:title.html"
