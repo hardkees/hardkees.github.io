@@ -1,7 +1,7 @@
 name: "hardkees"
-url: "https://hardkees.me/"
+url: "github.hardkees.io"
 
-baseurl: "https://hardkees.me"
+baseurl: "github.hardkees.io"
 
 cats:
  - Vulns and exploits
