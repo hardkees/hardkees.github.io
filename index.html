@@ -1,6 +1,6 @@
 ---
 layout: default
-title: All of my posts
+title: AmigaGuide
 ---
 
       <main role="main">
@@ -12,7 +12,7 @@ title: All of my posts
               <li class="category-{{ post.category }}"><a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.excerpt | strip_html | strip_newlines | escape }}">
                 {{ post.title }}</a>
                 {{ post.date | date: "%d %b" }}
-                <abbr title="{{ post.date | date: "%d %b %Y" }}">{{ post.date | date: "%Y" }}</abbr>
+                <abbr title="{{ post.date | date: "%d %b %Y" }}">{{ post.date | date: "%Y" | minus:20 }}</abbr>
               </li>
             {% endfor %}
           </ul>
