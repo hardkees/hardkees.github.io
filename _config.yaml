@@ -1,12 +1,12 @@
-name: "AmigaGuide"
-description: "If you're seeing this, someone forgot to edit the site description."
-url: "https://orbitalflower.github.io/amigaguide-theme/"
+name: "HardKees Blog"
+description: "Personal blog detailing interesting things I've found."
+url: "https://github.hardkees.io"
 
-baseurl: "https://orbitalflower.github.io/amigaguide-theme"
+baseurl: "https://github.hardkees.io"
 
 cats:
- - news
- - technology
+ - Vulnerabilities 
+ - Other
 
 relative_permalinks: false
 permalink: ":year:month:day-:title.html"
